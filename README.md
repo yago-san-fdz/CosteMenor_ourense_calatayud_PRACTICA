@@ -6,4 +6,3 @@
 ![Captura3](img/Captura3.PNG)
 ![Captura4](img/Captura4.PNG)
 ![Captura5](img/Captura5.PNG)
-![Captura6](img/Captura6.PNG)
